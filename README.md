@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 -  🎓 I’m currently majoring in Computer Science at BINUS University with a focus in Software Engineering
 -  🌱 I’m currently learning Python and Front-End Development
 - 📫 How to reach me:
   - Email: jonathan.jansen03@gmail.com
   - LinkedIn: https://www.linkedin.com/in/jonathan-jansen-subroto/
+
+### My Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,c,cpp,java,py,mysql&perline=5)](https://skillicons.dev)
